@@ -15,7 +15,7 @@ let duit = `𝘿𝙊𝙉𝘼𝙎𝙄 𝙑𝙄𝘼 •
 ➥ 𝙋𝙃𝙊𝙉𝙀𝙉𝙐𝙈𝘽𝙀𝙍
 ❍ 𝙉𝙀𝙓𝙏 → 𝙆𝙇𝙄𝙆 𝘽𝙐𝙏𝙏𝙊𝙉 
 
-_*Berapapun donasi kalian akan sangat berarti*_
+_*silahkan pc owner*_
 
 Arigatou!
 
@@ -26,8 +26,8 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
      templateMessage: {
          hydratedTemplate: {
            imageMessage: message.imageMessage,
-           hydratedContentText: duit,
-           hydratedFooterText: wm,
+           hydratedContentText: bot ini menggunakan script,
+           hydratedFooterText: catzy bot-Md,
            hydratedButtons: [{
              urlButton: {
                displayText: '𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿',
