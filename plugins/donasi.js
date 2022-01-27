@@ -15,12 +15,7 @@ let duit = `𝘿𝙊𝙉𝘼𝙎𝙄 𝙑𝙄𝘼 •
 ➥ 𝙋𝙃𝙊𝙉𝙀𝙉𝙐𝙈𝘽𝙀𝙍
 ❍ 𝙉𝙀𝙓𝙏 → 𝙆𝙇𝙄𝙆 𝘽𝙐𝙏𝙏𝙊𝙉 
 
-_*silahkan pc owner*_
-
-Arigatou!
-
-Contact person Owner:
-wa.me/687710621 (Owner)`
+_*silahkan pc owner untuk mengakses*_`
 let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/ca517a39ce85c8a4c0479.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
