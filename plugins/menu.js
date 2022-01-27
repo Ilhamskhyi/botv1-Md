@@ -28,12 +28,20 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭────ꕥ %me ꕥ────
-│✾ *Version: %version*
-│✾ *Library: Baileys-MD*
-│✾ *Mode: ${global.opts['self'] ? 'Self' : 'publik'}*
-│✾ *Runtime: %uptime*
-╰❑
+╭─「 %me 」
+│ Hai, %name!
+│
+│ Tersisa *%limit Limit*
+│ Role *%role*
+│ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
+│ %totalexp XP in Total
+│ 
+│ Tanggal: *%week %weton, %date*
+│ Tanggal Islam: *%dateIslamic*
+│ Waktu: *%time*
+│
+│ Runtime: *%uptime*
+╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
   body: '│ ⎙ %cmd %islimit %isPremium',
