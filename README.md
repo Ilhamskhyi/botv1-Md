@@ -36,7 +36,7 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/Ilhamskhzyi"><img src="https://github.com/Ilhamskhzyi.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/Ilhamskhyi"><img src="https://github.com/Ilhamskhyi.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/nurutomo"><img src="https://github.com/nurutomo.png?size=128" height="128" width="128" /></a>
 </p>
 
