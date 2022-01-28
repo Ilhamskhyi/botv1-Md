@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/Iihamhskhyzi?color=blue&style=flat-square"></a>
-<a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/ilmanhdyt/ShiraoriBOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/Ilhamskhzyi/botv1-Md?color=red&style=flat-square"></a>
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ilhamskhzyi/botv1-Md?color=red&style=flat-square"></a>
 </P>
 <p align="center">
@@ -36,14 +36,14 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/ilmanhdyt"><img src="https://github.com/ilmanhdyt.png?size=128" height="128" width="128" /></a>
-  <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/Ilhamskhzyi"><img src="https://github.com/Ilhamskhzyi.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/nurutomo"><img src="https://github.com/nurutomo.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
 * Info Lebih Lanjut, Chat [owner-Shiraori](https://wa.me/687710621)
-* Kamu bisa testing fitur ShiraoriBOT [disini](https://wa.me/6287773710155?text=.menu)
+* Kamu bisa testing fitur catzy-bot md [disini](https://wa.me/6283838908687?text=.menu)
 
 ## How To Change Menu Display
 ----
