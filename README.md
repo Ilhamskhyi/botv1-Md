@@ -13,9 +13,15 @@
 <a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/Iihamhskhyzi?color=blue&style=flat-square"></a>
 <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/ilmanhdyt/ShiraoriBOT-Md?color=red&style=flat-square"></a>
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ilhamskhzyi/botv1-Md?color=red&style=flat-square"></a>
-<a href="https://github.com//watchers"><img title="Watching" src="https://img.shields.io/github/watchers/?label=Watchers&color=blue&style=flat-square"></a>
+</P>
+<p align="center">
+  <a href="https://github.com/ilhamskhyzi/catzy-Md#requirements">Requirements</a> •
+  <a href="https://github.com/ilhamskhyzi/catzy-Md#instalasi">Installation</a> •
+  <a href="https://github.com/ilhamskhyzi/catzy-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/ilhamskhyzi/catzy-Md#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/ilhamskhyzi/catzy-Md#donate">Donate</a>
 </p>
-
+</div>
 ---
 
 # CATZY BOT Whatsapp MD
